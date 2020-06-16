@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name gantry-controller-prototype-rescue)(type Legacy)(uri ${KIPRJMOD}/gantry-controller-prototype-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,366 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 4
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 2550 2800 1550 1150
+U 5E66F797
+F0 "Power Supplies and Input" 50
+F1 "Power.sch" 50
+$EndSheet
+$Comp
+L growbox-KiCAD-Holes-Fasteners:M4_PTH H6
+U 1 1 5E8B249D
+P 5550 6400
+F 0 "H6" V 5496 6428 50  0000 L CNN
+F 1 "M4_PTH" V 5587 6428 50  0000 L CNN
+F 2 "growbox-KiCAD-Holes-PEMS-Standoffs:M4_HOLE" H 6000 6550 50  0001 C CNN
+F 3 "" H 5550 6400 50  0001 C CNN
+F 4 "*" H 5650 6650 50  0001 C CNN "Cost QTY: 1"
+F 5 "*" H 5750 6750 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 5850 6850 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 5950 6950 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 6050 7050 50  0001 C CNN "Cost QTY: 10000"
+F 9 "*" H 6150 7150 50  0001 C CNN "MFR"
+F 10 "*" H 6250 7250 50  0001 C CNN "MFR#"
+F 11 "*" H 6350 7350 50  0001 C CNN "Vendor"
+F 12 "*" H 6450 7450 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 6550 7550 50  0001 C CNN "Designer"
+F 14 "*" H 6650 7650 50  0001 C CNN "Height"
+F 15 "3/26/2020" H 7750 8750 50  0001 C CNN "Date Created"
+F 16 "3/26/2020" H 6750 7750 50  0001 C CNN "Date Modified"
+F 17 "*" H 6850 7850 50  0001 C CNN "Lead-Free ?"
+F 18 "*" H 6950 7950 50  0001 C CNN "RoHS Levels"
+F 19 "*" H 7050 8050 50  0001 C CNN "Mounting"
+F 20 "*" H 7150 8150 50  0001 C CNN "Pin Count #"
+F 21 "*" H 7250 8250 50  0001 C CNN "Status"
+F 22 "*" H 7350 8350 50  0001 C CNN "Tolerance"
+F 23 "*" H 7450 8450 50  0001 C CNN "Type"
+F 24 "*" H 7550 8550 50  0001 C CNN "Voltage"
+F 25 "*" H 7650 8700 50  0001 C CNN "Package"
+F 26 "M4 Plated Hole" H 7850 8900 50  0001 C CNN "_Value_"
+F 27 "*" H 7950 9000 50  0001 C CNN "Management_ID"
+F 28 "*" H 7950 9000 50  0001 C CNN "Description"
+	1    5550 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L growbox-KiCAD-Holes-Fasteners:M4_PTH H5
+U 1 1 5E8B9F6B
+P 4950 6400
+F 0 "H5" V 4896 6428 50  0000 L CNN
+F 1 "M4_PTH" V 4987 6428 50  0000 L CNN
+F 2 "growbox-KiCAD-Holes-PEMS-Standoffs:M4_HOLE" H 5400 6550 50  0001 C CNN
+F 3 "" H 4950 6400 50  0001 C CNN
+F 4 "*" H 5050 6650 50  0001 C CNN "Cost QTY: 1"
+F 5 "*" H 5150 6750 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 5250 6850 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 5350 6950 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 5450 7050 50  0001 C CNN "Cost QTY: 10000"
+F 9 "*" H 5550 7150 50  0001 C CNN "MFR"
+F 10 "*" H 5650 7250 50  0001 C CNN "MFR#"
+F 11 "*" H 5750 7350 50  0001 C CNN "Vendor"
+F 12 "*" H 5850 7450 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 5950 7550 50  0001 C CNN "Designer"
+F 14 "*" H 6050 7650 50  0001 C CNN "Height"
+F 15 "3/26/2020" H 7150 8750 50  0001 C CNN "Date Created"
+F 16 "3/26/2020" H 6150 7750 50  0001 C CNN "Date Modified"
+F 17 "*" H 6250 7850 50  0001 C CNN "Lead-Free ?"
+F 18 "*" H 6350 7950 50  0001 C CNN "RoHS Levels"
+F 19 "*" H 6450 8050 50  0001 C CNN "Mounting"
+F 20 "*" H 6550 8150 50  0001 C CNN "Pin Count #"
+F 21 "*" H 6650 8250 50  0001 C CNN "Status"
+F 22 "*" H 6750 8350 50  0001 C CNN "Tolerance"
+F 23 "*" H 6850 8450 50  0001 C CNN "Type"
+F 24 "*" H 6950 8550 50  0001 C CNN "Voltage"
+F 25 "*" H 7050 8700 50  0001 C CNN "Package"
+F 26 "M4 Plated Hole" H 7250 8900 50  0001 C CNN "_Value_"
+F 27 "*" H 7350 9000 50  0001 C CNN "Management_ID"
+F 28 "*" H 7350 9000 50  0001 C CNN "Description"
+	1    4950 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L growbox-KiCAD-Holes-Fasteners:M4_PTH H4
+U 1 1 5E8BB296
+P 4350 6400
+F 0 "H4" V 4296 6428 50  0000 L CNN
+F 1 "M4_PTH" V 4387 6428 50  0000 L CNN
+F 2 "growbox-KiCAD-Holes-PEMS-Standoffs:M4_HOLE" H 4800 6550 50  0001 C CNN
+F 3 "" H 4350 6400 50  0001 C CNN
+F 4 "*" H 4450 6650 50  0001 C CNN "Cost QTY: 1"
+F 5 "*" H 4550 6750 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 4650 6850 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 4750 6950 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 4850 7050 50  0001 C CNN "Cost QTY: 10000"
+F 9 "*" H 4950 7150 50  0001 C CNN "MFR"
+F 10 "*" H 5050 7250 50  0001 C CNN "MFR#"
+F 11 "*" H 5150 7350 50  0001 C CNN "Vendor"
+F 12 "*" H 5250 7450 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 5350 7550 50  0001 C CNN "Designer"
+F 14 "*" H 5450 7650 50  0001 C CNN "Height"
+F 15 "3/26/2020" H 6550 8750 50  0001 C CNN "Date Created"
+F 16 "3/26/2020" H 5550 7750 50  0001 C CNN "Date Modified"
+F 17 "*" H 5650 7850 50  0001 C CNN "Lead-Free ?"
+F 18 "*" H 5750 7950 50  0001 C CNN "RoHS Levels"
+F 19 "*" H 5850 8050 50  0001 C CNN "Mounting"
+F 20 "*" H 5950 8150 50  0001 C CNN "Pin Count #"
+F 21 "*" H 6050 8250 50  0001 C CNN "Status"
+F 22 "*" H 6150 8350 50  0001 C CNN "Tolerance"
+F 23 "*" H 6250 8450 50  0001 C CNN "Type"
+F 24 "*" H 6350 8550 50  0001 C CNN "Voltage"
+F 25 "*" H 6450 8700 50  0001 C CNN "Package"
+F 26 "M4 Plated Hole" H 6650 8900 50  0001 C CNN "_Value_"
+F 27 "*" H 6750 9000 50  0001 C CNN "Management_ID"
+F 28 "*" H 6750 9000 50  0001 C CNN "Description"
+	1    4350 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L growbox-KiCAD-Holes-Fasteners:M4_PTH H3
+U 1 1 5E8BC5E5
+P 3750 6400
+F 0 "H3" V 3696 6428 50  0000 L CNN
+F 1 "M4_PTH" V 3787 6428 50  0000 L CNN
+F 2 "growbox-KiCAD-Holes-PEMS-Standoffs:M4_HOLE" H 4200 6550 50  0001 C CNN
+F 3 "" H 3750 6400 50  0001 C CNN
+F 4 "*" H 3850 6650 50  0001 C CNN "Cost QTY: 1"
+F 5 "*" H 3950 6750 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 4050 6850 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 4150 6950 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 4250 7050 50  0001 C CNN "Cost QTY: 10000"
+F 9 "*" H 4350 7150 50  0001 C CNN "MFR"
+F 10 "*" H 4450 7250 50  0001 C CNN "MFR#"
+F 11 "*" H 4550 7350 50  0001 C CNN "Vendor"
+F 12 "*" H 4650 7450 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 4750 7550 50  0001 C CNN "Designer"
+F 14 "*" H 4850 7650 50  0001 C CNN "Height"
+F 15 "3/26/2020" H 5950 8750 50  0001 C CNN "Date Created"
+F 16 "3/26/2020" H 4950 7750 50  0001 C CNN "Date Modified"
+F 17 "*" H 5050 7850 50  0001 C CNN "Lead-Free ?"
+F 18 "*" H 5150 7950 50  0001 C CNN "RoHS Levels"
+F 19 "*" H 5250 8050 50  0001 C CNN "Mounting"
+F 20 "*" H 5350 8150 50  0001 C CNN "Pin Count #"
+F 21 "*" H 5450 8250 50  0001 C CNN "Status"
+F 22 "*" H 5550 8350 50  0001 C CNN "Tolerance"
+F 23 "*" H 5650 8450 50  0001 C CNN "Type"
+F 24 "*" H 5750 8550 50  0001 C CNN "Voltage"
+F 25 "*" H 5850 8700 50  0001 C CNN "Package"
+F 26 "M4 Plated Hole" H 6050 8900 50  0001 C CNN "_Value_"
+F 27 "*" H 6150 9000 50  0001 C CNN "Management_ID"
+F 28 "*" H 6150 9000 50  0001 C CNN "Description"
+	1    3750 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L growbox-KiCAD-Holes-Fasteners:M4_PTH H2
+U 1 1 5E8BD7AE
+P 3150 6400
+F 0 "H2" V 3096 6428 50  0000 L CNN
+F 1 "M4_PTH" V 3187 6428 50  0000 L CNN
+F 2 "growbox-KiCAD-Holes-PEMS-Standoffs:M4_HOLE" H 3600 6550 50  0001 C CNN
+F 3 "" H 3150 6400 50  0001 C CNN
+F 4 "*" H 3250 6650 50  0001 C CNN "Cost QTY: 1"
+F 5 "*" H 3350 6750 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 3450 6850 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 3550 6950 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 3650 7050 50  0001 C CNN "Cost QTY: 10000"
+F 9 "*" H 3750 7150 50  0001 C CNN "MFR"
+F 10 "*" H 3850 7250 50  0001 C CNN "MFR#"
+F 11 "*" H 3950 7350 50  0001 C CNN "Vendor"
+F 12 "*" H 4050 7450 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 4150 7550 50  0001 C CNN "Designer"
+F 14 "*" H 4250 7650 50  0001 C CNN "Height"
+F 15 "3/26/2020" H 5350 8750 50  0001 C CNN "Date Created"
+F 16 "3/26/2020" H 4350 7750 50  0001 C CNN "Date Modified"
+F 17 "*" H 4450 7850 50  0001 C CNN "Lead-Free ?"
+F 18 "*" H 4550 7950 50  0001 C CNN "RoHS Levels"
+F 19 "*" H 4650 8050 50  0001 C CNN "Mounting"
+F 20 "*" H 4750 8150 50  0001 C CNN "Pin Count #"
+F 21 "*" H 4850 8250 50  0001 C CNN "Status"
+F 22 "*" H 4950 8350 50  0001 C CNN "Tolerance"
+F 23 "*" H 5050 8450 50  0001 C CNN "Type"
+F 24 "*" H 5150 8550 50  0001 C CNN "Voltage"
+F 25 "*" H 5250 8700 50  0001 C CNN "Package"
+F 26 "M4 Plated Hole" H 5450 8900 50  0001 C CNN "_Value_"
+F 27 "*" H 5550 9000 50  0001 C CNN "Management_ID"
+F 28 "*" H 5550 9000 50  0001 C CNN "Description"
+	1    3150 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L growbox-KiCAD-Holes-Fasteners:M4_PTH H1
+U 1 1 5E8BEDC1
+P 2600 6400
+F 0 "H1" V 2546 6428 50  0000 L CNN
+F 1 "M4_PTH" V 2637 6428 50  0000 L CNN
+F 2 "growbox-KiCAD-Holes-PEMS-Standoffs:M4_HOLE" H 3050 6550 50  0001 C CNN
+F 3 "" H 2600 6400 50  0001 C CNN
+F 4 "*" H 2700 6650 50  0001 C CNN "Cost QTY: 1"
+F 5 "*" H 2800 6750 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 2900 6850 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 3000 6950 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 3100 7050 50  0001 C CNN "Cost QTY: 10000"
+F 9 "*" H 3200 7150 50  0001 C CNN "MFR"
+F 10 "*" H 3300 7250 50  0001 C CNN "MFR#"
+F 11 "*" H 3400 7350 50  0001 C CNN "Vendor"
+F 12 "*" H 3500 7450 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 3600 7550 50  0001 C CNN "Designer"
+F 14 "*" H 3700 7650 50  0001 C CNN "Height"
+F 15 "3/26/2020" H 4800 8750 50  0001 C CNN "Date Created"
+F 16 "3/26/2020" H 3800 7750 50  0001 C CNN "Date Modified"
+F 17 "*" H 3900 7850 50  0001 C CNN "Lead-Free ?"
+F 18 "*" H 4000 7950 50  0001 C CNN "RoHS Levels"
+F 19 "*" H 4100 8050 50  0001 C CNN "Mounting"
+F 20 "*" H 4200 8150 50  0001 C CNN "Pin Count #"
+F 21 "*" H 4300 8250 50  0001 C CNN "Status"
+F 22 "*" H 4400 8350 50  0001 C CNN "Tolerance"
+F 23 "*" H 4500 8450 50  0001 C CNN "Type"
+F 24 "*" H 4600 8550 50  0001 C CNN "Voltage"
+F 25 "*" H 4700 8700 50  0001 C CNN "Package"
+F 26 "M4 Plated Hole" H 4900 8900 50  0001 C CNN "_Value_"
+F 27 "*" H 5000 9000 50  0001 C CNN "Management_ID"
+F 28 "*" H 5000 9000 50  0001 C CNN "Description"
+	1    2600 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:Earth #PWR030
+U 1 1 5E8D2DBD
+P 2700 6800
+F 0 "#PWR030" H 2700 6550 50  0001 C CNN
+F 1 "Earth" H 2700 6650 50  0001 C CNN
+F 2 "" H 2700 6800 50  0001 C CNN
+F 3 "~" H 2700 6800 50  0001 C CNN
+	1    2700 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR01
+U 1 1 5E8D3D58
+P 1600 6800
+F 0 "#PWR01" H 1600 6550 50  0001 C CNN
+F 1 "GND" H 1605 6627 50  0000 C CNN
+F 2 "" H 1600 6800 50  0001 C CNN
+F 3 "" H 1600 6800 50  0001 C CNN
+	1    1600 6800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5650 6600 5050 6600
+Wire Wire Line
+	2700 6600 2700 6700
+Connection ~ 2700 6600
+Connection ~ 3250 6600
+Wire Wire Line
+	3250 6600 2700 6600
+Connection ~ 3850 6600
+Wire Wire Line
+	3850 6600 3250 6600
+Connection ~ 4450 6600
+Wire Wire Line
+	4450 6600 3850 6600
+Connection ~ 5050 6600
+Wire Wire Line
+	5050 6600 4450 6600
+Wire Wire Line
+	1600 6800 1600 6700
+Wire Wire Line
+	1600 6700 1750 6700
+Wire Wire Line
+	2700 6700 2250 6700
+Connection ~ 2700 6700
+Wire Wire Line
+	2700 6700 2700 6800
+$Sheet
+S 7950 2800 1350 1150
+U 5E83E86D
+F0 "E-Stop and Activity Lights" 50
+F1 "EStop_Lights.sch" 50
+F2 "FET_1OE" I L 7950 2900 50 
+F3 "FET1_DRV" I L 7950 3000 50 
+F4 "FET_2OE" I L 7950 3150 50 
+F5 "FET2_DRV" I L 7950 3250 50 
+F6 "FET_3OE" I L 7950 3400 50 
+F7 "FET3_DRV" I L 7950 3500 50 
+F8 "FET_4OE" I L 7950 3650 50 
+F9 "FET4_DRV" I L 7950 3750 50 
+$EndSheet
+$Sheet
+S 5350 2800 2050 1150
+U 5E66F846
+F0 "Arduino DUE Connections" 50
+F1 "Arduino_DUE_Connections.sch" 50
+F2 "FET_1OE" I R 7400 2900 50 
+F3 "FET1_DRV" I R 7400 3000 50 
+F4 "FET_2OE" I R 7400 3150 50 
+F5 "FET2_DRV" I R 7400 3250 50 
+F6 "FET_3OE" I R 7400 3400 50 
+F7 "FET3_DRV" I R 7400 3500 50 
+F8 "FET_4OE" I R 7400 3650 50 
+F9 "FET4_DRV" I R 7400 3750 50 
+$EndSheet
+Wire Wire Line
+	7400 2900 7950 2900
+Wire Wire Line
+	7950 3000 7400 3000
+Wire Wire Line
+	7400 3150 7950 3150
+Wire Wire Line
+	7950 3250 7400 3250
+Wire Wire Line
+	7400 3400 7950 3400
+Wire Wire Line
+	7950 3500 7400 3500
+Wire Wire Line
+	7400 3650 7950 3650
+Wire Wire Line
+	7950 3750 7400 3750
+$Comp
+L growbox-KiCAD-Diodes:BAT20JFILM D13
+U 1 1 5EDD8B74
+P 2000 6700
+F 0 "D13" H 2000 6460 50  0000 C CNN
+F 1 "BAT20JFILM" H 2050 6900 50  0001 C CNN
+F 2 "growbox-KiCAD-Diodes:BAT20JFILM" H 1150 7550 50  0001 C CNN
+F 3 "https://www.st.com/content/ccc/resource/technical/document/datasheet/group1/81/a4/1f/0e/ca/8c/47/ba/CD00012201/files/CD00012201.pdf/jcr:content/translations/en.CD00012201.pdf" H 1900 6800 50  0001 C CNN
+F 4 "0.32000" H 2100 6950 50  0001 C CNN "Cost QTY: 1"
+F 5 "0.06120" H 2200 7050 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 2300 7150 50  0001 C CNN "Cost QTY: 2500"
+F 7 "0.05688" H 2400 7250 50  0001 C CNN "Cost QTY: 5000"
+F 8 "0.04920" H 2500 7350 50  0001 C CNN "Cost QTY: 10000"
+F 9 "STMicroelectronics" H 2600 7450 50  0001 C CNN "MFR"
+F 10 "BAT20JFILM" H 2700 7550 50  0001 C CNN "MFR#"
+F 11 "Digikey" H 2800 7650 50  0001 C CNN "Vendor"
+F 12 "497-3381-2-ND" H 2900 7750 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 3000 7850 50  0001 C CNN "Designer"
+F 14 "1.13mm" H 3100 7950 50  0001 C CNN "Height"
+F 15 "3/1/2020" H 4200 9050 50  0001 C CNN "Date Created"
+F 16 "3/1/2020" H 3200 8050 50  0001 C CNN "Date Modified"
+F 17 "Yes" H 3300 8150 50  0001 C CNN "Lead-Free ?"
+F 18 "1" H 3400 8250 50  0001 C CNN "RoHS Levels"
+F 19 "SMT" H 3500 8350 50  0001 C CNN "Mounting"
+F 20 "2" H 3600 8450 50  0001 C CNN "Pin Count #"
+F 21 "Active" H 3700 8550 50  0001 C CNN "Status"
+F 22 "*" H 3800 8650 50  0001 C CNN "Tolerance"
+F 23 "Schottky Diode" H 3900 8750 50  0001 C CNN "Type"
+F 24 "23V" H 4000 8850 50  0001 C CNN "Voltage"
+F 25 "SOD-323" H 4100 9000 50  0001 C CNN "Package"
+F 26 "Diode Schottky 23V 1A Surface Mount SOD-323" H 4400 9300 50  0001 C CNN "Description"
+F 27 "BAT20J" H 2000 6551 50  0000 C CNN "_Value_"
+F 28 "*" H 4400 9300 50  0001 C CNN "Management_ID"
+	1    2000 6700
+	-1   0    0    1   
+$EndComp
+$EndSCHEMATC
